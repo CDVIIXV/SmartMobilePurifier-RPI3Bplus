@@ -4,4 +4,10 @@
 ## Requirement Analysis & Proposal : 장휘용(Hwiyong Chang), 이강호(Gangho Lee), 최인욱(Inuk Choi), 김우종(?)
 ## Implement : 장휘용(Hwiyong Chang)
 
+#### Top view
+![ex_screenshot](./image/TopView.jpg)
+
+#### Front view
+![ex_screenshot](./image/FrontView.jpg)
+
 https://www.youtube.com/watch?v=rxxtXJhF6ds
